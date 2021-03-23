@@ -1,0 +1,19 @@
+td {
+    color: white;
+}
+
+th {
+    color: white;
+}
+
+.one {
+    color: white;
+}
+
+body {
+    background-image: url(image/It.jpg) ;
+    background-size: 1360px 830px;
+    width: 400px;
+    margin: 100px auto;
+}
+
